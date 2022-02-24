@@ -15,7 +15,7 @@ We will meet as a Cohort via Zoom on five Fridays over two months for 1.5 hours 
 - **Location:** remotely, via Zoom
 
 
-Agendas are accessible to Cohort participants in our Cohort Google Drive Folder *(link upcoming)*; they are also an archive of our live google-docing. Please see <https://openscapes.org/series> to view blank versions of the agendas. 
+Agendas are accessible to Cohort participants in our [Cohort Google Drive Folder](https://drive.google.com/drive/folders/1d9gSLy5c7KjbgdADI4vSY-yNQnXP07eU?usp=sharing); they are also an archive of our live google-docing. Please see <https://openscapes.org/series> to view blank versions of the agendas. 
 
 Date | Cohort Call Topics          | Series Chapters |      Seaside Chat Topics
 ----| ------------------|----------------------|--------------------------------
@@ -35,6 +35,8 @@ Date | Cohort Call Topics          | Series Chapters |      Seaside Chat Topics
 *Upcoming*
 
 ## NASA Openscapes team
+
+[Planning Google Folder](https://drive.google.com/drive/folders/1MGA2R7qJOJD2l5kpzXJ5I29sHfMPL5Kx?usp=sharing)
 
 *Upcoming*
 
