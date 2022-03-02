@@ -25,10 +25,13 @@ Date | Cohort Call Topics          | Series Chapters |      Seaside Chat Topics
 04/15 | 4. Coding strategies for future us; Next steps with cloud |  | Pathways preparation
 04/29 | 5. Pathways share; Open communities | [coding with communities](https://openscapes.github.io/series/communities) | 
 
-## Coworking times (optional)
+## Co-working times (optional)
 
-*Upcoming*
+Co-working sessions are where we work at the same time together. Sometimes, this means quiet work with check-ins to break up focused work and get feedback, and sometimes this involves asking questions and screensharing to learn and problem solve.
 
+**Dates:** March 10, 24, April 7, 21  
+**Times:** 11:30-1:00 pm Pacific Time
+- **Location:** remotely, via Zoom
 
 ## Participating teams
 
