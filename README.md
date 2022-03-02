@@ -8,7 +8,7 @@ Welcome to the 2022 NOAA AFSC Openscapes Champions Cohort! This is a Cohort for 
 
 ## Cohort Agendas
 
-We will meet as a Cohort via Zoom on five Fridays over two months for 1.5 hours each: 
+We will meet as a Cohort via Zoom on five Fridays over two months for 1.5 hours each:  
 
 - **Dates:** March 4, 18, April 1, 15, 29
 - **Times:** 10:00-11:30 am Pacific Time
