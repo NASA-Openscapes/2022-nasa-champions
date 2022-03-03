@@ -41,11 +41,22 @@ Co-working sessions are where we work at the same time together. Sometimes, this
 
 [Planning Google Folder](https://drive.google.com/drive/folders/1MGA2R7qJOJD2l5kpzXJ5I29sHfMPL5Kx?usp=sharing)
 
-*Upcoming*
+Julie Lowndes, NASA-Openscapes Co-Lead, NCEAS, UCSB, is co-leading
+Erin Robinson, NASA-Openscapes Co-Lead, Metadata Game Changers, is co-leading
+
+NASA Openscapes Mentors assisting: 
+
+- Andy Barrett
+- Aaron Friesz
+- Alexis Hunzinger
+- Luis Lopez
+- Catalina Oaida
+- Jack McNelis
+- Christine Smit
+- Amy Steiker
+- Makhan Virdi
 
 ## More about Openscapes and the Champions program:
-
-*To be updated*
 
 * **[Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160)** (Lowndes et al 2017, _Nature Ecology & Evolution_) - this paper greatly influences the whole Champions program and we’ll ask that everyone participating reads it before our first Cohort Call on September 9. 
 * **[Openscapes: Better Science for Future Us](https://docs.google.com/presentation/d/1HGw4P095-lblHiGQHXYidHiVysjrPxuojxTxKtE13vk/edit#slide=id.ge2b7c2f974_0_2017)** - 2021 plenary talk at the Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE) inaugural conference 
