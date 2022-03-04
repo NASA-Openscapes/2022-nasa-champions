@@ -56,21 +56,6 @@ Some brief information about participating teams.Please add any edits directly (
 
 **The Roberts Team** supports evaluation of global energy and water budgets, develops retrieval algorithms and climate data records (e.g. SeaFlux V1), evaluates air-sea interaction and ocean winds, and downscales and bias corrects models for use in hydrologic and agricultural modeling).
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## NASA Openscapes team
 
 [Planning Google Folder](https://drive.google.com/drive/folders/1MGA2R7qJOJD2l5kpzXJ5I29sHfMPL5Kx?usp=sharing)
@@ -80,15 +65,15 @@ Erin Robinson, NASA-Openscapes Co-Lead, Metadata Game Changers, is co-leading
 
 NASA Openscapes Mentors assisting: 
 
-- Andy Barrett
-- Aaron Friesz
-- Alexis Hunzinger
-- Luis Lopez
-- Catalina Oaida
-- Jack McNelis
-- Christine Smit
-- Amy Steiker
-- Makhan Virdi
+- Andy Barrett, NSIDC
+- Aaron Friesz, LP DAAC
+- Alexis Hunzinger, GES DISC
+- Luis Lopez, NSIDC
+- Catalina Oaida, PO.DAAC
+- Jack McNelis, PO.DAAC
+- Christine Smit, GES DISC
+- Amy Steiker, NSIDC
+- Makhan Virdi, ASDC
 
 ## More about Openscapes and the Champions program:
 
