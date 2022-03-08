@@ -2,7 +2,7 @@
 
 # 2022 NASA Openscapes Champions Cohort
 
-Welcome to the 2022 NOAA AFSC Openscapes Champions Cohort! This is a Cohort for researchers using NASA Earthdata and transitioning workflows to the Cloud. This is part of NASA Openscapes: <https://nasa-openscapes.github.io>. Learn more about Openscapes and the Champions Program: <https://openscapes.org>. 
+Welcome to the 2022 NASA Openscapes Champions Cohort! This is a Cohort for researchers using NASA Earthdata and transitioning workflows to the Cloud. This is part of NASA Openscapes: <https://nasa-openscapes.github.io>. Learn more about Openscapes and the Champions Program: <https://openscapes.org>. 
 
 <img align="right" src="horst-champions-trailhead.png" width="450">  
 
