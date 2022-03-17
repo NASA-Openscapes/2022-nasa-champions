@@ -34,7 +34,7 @@ Co-working sessions are where we work at the same time together. Sometimes, this
 - **Location:** remotely, via Zoom
 
 ## Participating teams
-Some brief information about participating teams.Please add any edits directly (we'll learn how in our GitHub Clinic!)
+Some brief information about participating teams. Teams, please add any edits directly (we'll learn how in our GitHub Clinic!)
 
 **The Cryosphere Geophysics and Remote Sensing (CryoGARS) Glaciology Team** at Boise State University analyzes modern changes to the Earth’s cryosphere, with a focus on rapid changes in glacier flow, glacier-ocean interactions, iceberg melting, and seasonal snow accumulation and melt. Nearly all of our projects use Landsat imagery to map changes in glacier, iceberg, and/or snow extent. Several projects also use Landsat data to map glacier velocities or rely on NASA-produced glacier velocities computed from Landsat and Sentinel images. We also use ICESat-2 data to map glacier volume change and seasonal snow in mountain regions. We look forward to using more cloud resources so that we can expand our analyses in space and time in order to advance our understanding of Cryosphere change!
 
