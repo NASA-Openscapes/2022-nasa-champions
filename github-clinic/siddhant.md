@@ -38,3 +38,7 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 Testing the normal text
 
 Doing </br> or `\` works as well 
+```python
+import numpy as np
+import pandas as pd
+```
