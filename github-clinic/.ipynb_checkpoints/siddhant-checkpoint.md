@@ -31,17 +31,18 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 **Click the pencil to edit and make several commits as play around – what else can you change or add?**
 
-*I'll try different text styles*\
-**This is bold text**
+**Testing the Bold Option**
 
-If I use a space is different than using a slash \
-*I'll try different text styles*
+*Testing the italic option*
 
-**This is bold text**
+Testing the normal text
 
-Can you see the difference?
+Doing </br> or `\` works as well 
 
-To add some codes from python:
+## Now I am updating my page using the cloud account
+I have cloned the repo on the cloud account and making these changes! Hope it works.
+# Python Lines
 ```python
 import numpy as np
+import pandas as pd
 ```
