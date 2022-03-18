@@ -4,6 +4,9 @@ Working on GitHub.com, we contribute changes through **commits**. Let's create s
 
 Crista is in GitHub - how exciting!
 
+![image](https://user-images.githubusercontent.com/101825597/159052950-6c1acea8-4046-44fc-99b6-2374e17560d5.png)
+
+
 This file is written in Markdown, which formats text. For example, with Markdown:
 
 We can make words **bold** or *italic*.
