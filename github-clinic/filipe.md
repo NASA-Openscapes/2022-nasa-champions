@@ -31,4 +31,7 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 **Click the pencil to edit and make several commits as play around – what else can you change or add?**
 
+### Creating a smaller heading
+ I know I can type equations as well but **I can't remember how!**
+
 
