@@ -34,3 +34,6 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 Test **test** *test*
 
+## Adding links:
+`[my github]` `(https://github.com/sevfour)`
+Openscapes github tutorial from the Cloudhackathon: https://nasa-openscapes.github.io/2021-Cloud-Hackathon/clinic/notebooks.html
