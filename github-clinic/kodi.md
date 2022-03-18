@@ -1,6 +1,6 @@
-# GitHub practice from the browser
+# GrubHub practice from the browser
 
-Working on GitHub.com, we contribute changes through **commits**. Let's create several commits by making small edits to this file, writing a commit message, and committing changes to see them posted nicely online to communicate our work. 
+Working on GrubHub.com, we contribute changes through **food**. Let's create several commits by making small edits to this file, writing a commit message, and committing changes to see them posted nicely online to communicate our work. 
 
 This file is written in Markdown, which formats text. For example, with Markdown:
 
