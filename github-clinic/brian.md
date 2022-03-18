@@ -34,3 +34,7 @@ nice use of `back quotes` for code-like look and feel
 **Click the pencil to edit and make several commits as play around – what else can you change or add?**
 
 
+Mathematics: hacks and tricks 
+
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+
