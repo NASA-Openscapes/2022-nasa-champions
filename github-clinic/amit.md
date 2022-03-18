@@ -6,7 +6,7 @@ This file is written in Markdown, which formats text. For example, with Markdown
 
 We can make words **bold** or *italic*.
 
-### I will eventually learn how to insert a figure
+### I will eventually learn how to insert a figure - still need to do this right
 
 More lists
 
