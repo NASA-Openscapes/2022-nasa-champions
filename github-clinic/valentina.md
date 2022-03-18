@@ -31,4 +31,17 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 **Click the pencil to edit and make several commits as play around – what else can you change or add?**
 
+*I'll try different text styles*\
+**This is bold text**
 
+If I use a space is different than using a slash \
+*I'll try different text styles*
+
+**This is bold text**
+
+Can you see the difference?
+
+To add some codes from python:
+''' python
+import numpy as np
+'''
