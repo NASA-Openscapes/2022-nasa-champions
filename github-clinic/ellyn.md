@@ -31,4 +31,6 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 **Click the pencil to edit and make several commits as play around – what else can you change or add?**
 
+I'm going to try to add a link to my group's website! [CryoGARS Glaciology's current website](https://sites.google.com/d/1bOzLepyntsGz2RePB9xPo0lalK_hWPMa/p/0BwqIVxrzhN-QZ0ZNNlQ2SkNUa2s/edit)
+
 
