@@ -32,6 +32,6 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 **Click the pencil to edit and make several commits as play around – what else can you change or add?**
 
 I'm going to add a picture of one of our team's four legged-friend
-![alt text](https://ibb.co/HLSD93x "Thomas Lincoln Tulley")
+![alt text](https://ibb.co/HLSD93x "Thomas Lincoln Tulley") 
 
 
