@@ -33,8 +33,6 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 ## Equations
 
-I believe we can add equations by using the '$' symbol.
-
-$$ \gamma = 1 + \exp^{-2x}$$.
+I believe we can add equations by using the `$` symbol. But this doesn't seem to work: $ \gamma = 1 + \exp^{-2x}$.
 
 
