@@ -33,6 +33,6 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 testing out checkboxes
 - [x] brush teeth
-- [] submit manuscript
-- [] celebrate
+- [ ] submit manuscript
+- [ ] celebrate
 
