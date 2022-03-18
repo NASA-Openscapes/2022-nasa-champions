@@ -32,5 +32,11 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 **Click the pencil to edit and make several commits as play around – what else can you change or add?**
 
 Simple line of text.
+# header 1
+## header 2
+### header 3
+#### header 4
+##### header 5
+###### is there a header 6?
 
 
