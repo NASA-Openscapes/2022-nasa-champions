@@ -40,6 +40,7 @@ This is a **bold** test.
 2. Item 2
 3. Item 3
 
-![image](https://user-images.githubusercontent.com/92398731/159052991-6de4fd34-c271-4c67-939e-fab702bcf2ae.png)
+![image](https://user-images.githubusercontent.com/92398731/159053409-ae879197-0a06-48b1-a1ba-04c91b2ee855.png)
+
 
 > **This is a bold quote**
