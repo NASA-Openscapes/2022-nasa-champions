@@ -36,6 +36,7 @@ nice use of `back quotes` for code-like look and feel
 
 Mathematics: hacks and tricks 
 
+Fails on dark mode: 
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 
 ![formula](https://render.githubusercontent.com/render/math?math=\color{red}\large\f(x)=sin(x))
