@@ -8,6 +8,17 @@ We can make words **bold** or *italic*.
 
 ## We can make headers.
 
+## Trying my own header for practice
+
+I like lists:
+1. One asterisk for *italics*
+2. Two asterisks for **bold**
+3. Three asterisks for ***both***
+
+Can I paste a graphic? Time to try...
+<img width="301" alt="image" src="https://user-images.githubusercontent.com/100801688/159053586-80103c97-2c1c-41d2-8516-a0721e72a929.png">
+
+
 We can make lists – *note that lists need a carriage return before list items!*
 
 1. bananas
