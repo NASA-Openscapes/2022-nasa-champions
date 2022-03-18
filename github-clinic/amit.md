@@ -6,6 +6,8 @@ This file is written in Markdown, which formats text. For example, with Markdown
 
 We can make words **bold** or *italic*.
 
+I will eventually learn how to insert a figure
+
 ## We can make headers.
 
 We can make lists – *note that lists need a carriage return before list items!*
