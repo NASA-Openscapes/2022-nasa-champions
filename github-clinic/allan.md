@@ -37,6 +37,6 @@ testing out checkboxes
 - [ ] celebrate
 
 trying to make a table
-First Header|Second|Summary
-idea|haven't started|- [ ]
-idea2|did it!|- [*]
+First Header | Second | Summary
+idea | haven't started | - [ ]
+idea2 | did it! | - [*]
