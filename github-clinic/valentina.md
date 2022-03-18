@@ -42,6 +42,6 @@ If I use a space is different than using a slash \
 Can you see the difference?
 
 To add some codes from python:
-''' python
+```python
 import numpy as np
-'''
+```
