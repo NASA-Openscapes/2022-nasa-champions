@@ -1,4 +1,14 @@
-# GitHub practice from the browser
+# Welcome!
+
+
+Here is a link to my personal [GitHub page](https://github.com/RaineyAbe).
+These are things I would like to do during Spring break:
+- Sleep
+- Eat
+  - bread 
+  - vegetables
+  - beans
+- Bike
 
 Working on GitHub.com, we contribute changes through **commits**. Let's create several commits by making small edits to this file, writing a commit message, and committing changes to see them posted nicely online to communicate our work. 
 
