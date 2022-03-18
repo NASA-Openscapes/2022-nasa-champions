@@ -4,6 +4,7 @@ Working on GitHub.com, we contribute changes through **commits**. Let's create s
 
 Crista is in GitHub - how exciting!
 
+Look at this exciting Landsat Image:
 ![image](https://user-images.githubusercontent.com/101825597/159052950-6c1acea8-4046-44fc-99b6-2374e17560d5.png)
 
 
