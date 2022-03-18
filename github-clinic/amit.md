@@ -8,6 +8,14 @@ We can make words **bold** or *italic*.
 
 ### I will eventually learn how to insert a figure
 
+More lists
+
+1. **Precipitation**
+2. SST
+3. *Ocean Color*
+4. Winds
+> 5. Integrated column water vapor
+
 ## We can make headers.
 
 We can make lists – *note that lists need a carriage return before list items!*
@@ -15,6 +23,7 @@ We can make lists – *note that lists need a carriage return before list items!
 1. bananas
 2. tamales
 3. cakes
+4. yogurt
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
