@@ -2,6 +2,8 @@
 
 Working on GitHub.com, we contribute changes through **commits**. Let's create several commits by making small edits to this file, writing a commit message, and committing changes to see them posted nicely online to communicate our work. 
 
+Crista is in GitHub - how exciting!
+
 This file is written in Markdown, which formats text. For example, with Markdown:
 
 We can make words **bold** or *italic*.
