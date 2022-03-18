@@ -31,4 +31,8 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 **Click the pencil to edit and make several commits as play around – what else can you change or add?**
 
+pic: ![](https://img.shields.io/badge/-MATLAB-orange?style=for-the-badge&logo=MATLAB)
 
+***what does this do?***
+
+### testing ....
