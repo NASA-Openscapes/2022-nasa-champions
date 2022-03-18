@@ -31,4 +31,10 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 **Click the pencil to edit and make several commits as play around – what else can you change or add?**
 
+## Equations
+
+I believe we can add equations by using the '$' symbol.
+
+$$ \gamma = 1 + \exp^{-2x}$$.
+
 
