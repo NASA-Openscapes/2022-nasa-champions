@@ -49,3 +49,6 @@ Simple line of text.
 1. numbered
 2. list
 
+Image from a URL:
+![](https://salinity.oceansciences.org/images/layout/sassie_l2_banner.png)
+
