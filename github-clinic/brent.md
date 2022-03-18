@@ -9,3 +9,7 @@ Example of 25km SeaFlux-V3 dataset:
 
 ![sfv3_20070308_gulfstr](https://user-images.githubusercontent.com/10454178/159053702-37fc19ac-60ef-47d1-a1da-26b2362cd2ab.png)
 
+# Hourly Animation!
+
+https://user-images.githubusercontent.com/10454178/159054020-b9850180-1845-479a-86be-4c8065d5ac0d.mp4
+
