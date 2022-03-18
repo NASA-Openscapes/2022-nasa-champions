@@ -33,5 +33,9 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 ### Creating a smaller heading
  I know I can type equations as well but **I can't remember how!**
+ Some relevant oceanographic properties:
+ 1. Sea Surface Salinity
+ 2. Sea Surface Height
+ 3. Geostrophic velocities
 
 
