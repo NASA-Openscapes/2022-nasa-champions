@@ -41,3 +41,5 @@ This is a **bold** test.
 3. Item 3
 
 ![image](https://user-images.githubusercontent.com/92398731/159052991-6de4fd34-c271-4c67-939e-fab702bcf2ae.png)
+
+> **This is a bold quote**
