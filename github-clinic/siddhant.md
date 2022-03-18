@@ -38,6 +38,9 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 Testing the normal text
 
 Doing </br> or `\` works as well 
+
+## Now I am updating my page using the cloud account
+I have cloned the repo on the cloud account and making these changes! Hope it works.
 # Python Lines
 ```python
 import numpy as np
