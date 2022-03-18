@@ -32,3 +32,12 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 **Click the pencil to edit and make several commits as play around – what else can you change or add?**
 
 
+This is a test.
+
+This is a **bold** test.
+
+1. Item 1
+2. Item 2
+3. Item 3
+
+![image](https://user-images.githubusercontent.com/92398731/159052991-6de4fd34-c271-4c67-939e-fab702bcf2ae.png)
