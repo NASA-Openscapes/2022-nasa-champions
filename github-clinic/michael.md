@@ -16,6 +16,11 @@ We can make lists – *note that lists need a carriage return before list items!
 
 
 ``` mkdir openscapes```
+```python
+x = 4
+for i in range(x):
+    print(i)
+```
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
