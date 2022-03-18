@@ -36,3 +36,5 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 *Testing the italic option*
 
 Testing the normal text
+
+Doing </br> or '\' works as well 
