@@ -40,3 +40,12 @@ Simple line of text.
 ###### is there a header 6?
 
 
+* bulleted
+* list
+
+- dashed
+- list
+
+1. numbered
+2. list
+
