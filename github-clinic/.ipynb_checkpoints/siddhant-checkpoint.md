@@ -42,7 +42,10 @@ Doing </br> or `\` works as well
 ## Now I am updating my page using the cloud account
 I have cloned the repo on the cloud account and making these changes! Hope it works.
 # Python Lines
-%```python
+```python
 %import numpy as np
 %import pandas as pd
-%```
+```
+# Status of Papers
+## Paper-1
+ *Draft shared with co-authors* **But they always suggest something new hahaha**
