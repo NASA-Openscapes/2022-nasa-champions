@@ -50,4 +50,4 @@ I have cloned the repo on the cloud account and making these changes! Hope it wo
 ## Paper-1
  *Draft shared with co-authors* **But they always suggest something new hahaha**
  So my plan is to incorporate some changes </br>
- [https://twitter.com/sid_k_ocean97](This is my twitter handle)
+ [https://twitter.com/sid_k_ocean97] (This is my twitter handle)
