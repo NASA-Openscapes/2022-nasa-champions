@@ -43,6 +43,6 @@ Doing </br> or `\` works as well
 I have cloned the repo on the cloud account and making these changes! Hope it works.
 # Python Lines
 ```python
-import numpy as np
-import pandas as pd
+%import numpy as np
+%import pandas as pd
 ```
