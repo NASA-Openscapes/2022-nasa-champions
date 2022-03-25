@@ -29,6 +29,13 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 ## Your turn
 
-Example of script
+Practice writing and commit in GitHub:
+## Headers
+1. **Bold font"
+2. *Italic font*
+3. Hyperlinks (https://github.com/NASA-Openscapes/2022-nasa-champions/edit/main/github-clinic/farrah.md)
+4. URL [https://github.com/NASA-Openscapes/2022-nasa-champions/edit/main/github-clinic]
+
+
 **Click the pencil to edit and make several commits as play around – what else can you change or add?**
 
