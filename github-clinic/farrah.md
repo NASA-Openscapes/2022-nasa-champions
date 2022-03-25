@@ -33,7 +33,7 @@ Practice writing and commit in GitHub:
 ## Headers
 1. **Bold font"
 2. *Italic font*
-3. Hyperlinks (https://github.com/NASA-Openscapes/2022-nasa-champions/edit/main/github-clinic/farrah.md)
+3. Hyperlinks (https://github.com/NASA-Openscapes/2022-nasa-champions/edit/main/github-clinic)
 4. URL [https://github.com/NASA-Openscapes/2022-nasa-champions/edit/main/github-clinic]
 
 
