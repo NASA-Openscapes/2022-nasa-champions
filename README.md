@@ -21,9 +21,11 @@ Date | Cohort Call Topics          | Series Chapters |      Seaside Chat Topics
 ----| ------------------|----------------------|--------------------------------
 03/04 | 1. Openscapes mindset | [mindset](https://openscapes.github.io/series/mindset) | Pathway trailhead; create GitHub accounts 
 03/18 | 2. GitHub Clinic; Team culture <br> | [publishing](https://openscapes.github.io/series/github-pub), [project management](https://openscapes.github.io/series/github-issues); [team culture](https://openscapes.github.io/series/team-culture) | Exploring GitHub 
-04/01 | 3. JupyterHub Clinic; Data strategies for future us |  | Exploring JupyterHub
-04/15 | 4. Coding strategies for future us; Next steps with cloud |  | Pathways preparation
+04/01 | 3. JupyterHub Clinic; Next steps with cloud |  | Exploring JupyterHub
+04/15 | 4. Coding strategies for future us; Data strategies for future us |  | Pathways preparation
 04/29 | 5. Pathways share; Open communities | [coding with communities](https://openscapes.github.io/series/communities) | 
+
+[**Call Digests**](https://github.com/NASA-Openscapes/2022-nasa-champions/issues?q=is%3Aissue+is%3Aopen+label%3Adigest)
 
 ## Co-working times (optional)
 
